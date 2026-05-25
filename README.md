@@ -38,4 +38,4 @@ A comprehensive Verilog testbench was developed to verify processor functionalit
 - Computer Architecture Concepts
 
 ## Project Goal
-The objective of this project is to design, implement, and verify a custom RISC processor while gaining practical experience in processor architecture, RTL design, control logic generation, and hardware verification. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+The objective of this project is to design, implement, and verify a custom RISC processor while gaining practical experience in processor architecture, RTL design, control logic generation, and hardware verification.
